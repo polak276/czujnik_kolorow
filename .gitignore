@@ -1,0 +1,5 @@
+#plik gitignore
+#bez katalogu Release i .settings
+/Release
+/.settings
+
